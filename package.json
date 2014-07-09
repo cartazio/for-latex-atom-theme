@@ -1,7 +1,7 @@
 {
   "name": "ForLatex",
   "theme": "syntax",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "ForLatex is bright, dark syntax highlighting theme good for both documents and code",
   "repository": "https://github.com/cartazio/for-latex-atom-theme.git",
   "license": "MIT",
