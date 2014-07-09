@@ -2,10 +2,10 @@
   "name": "for-latex",
   "theme": "syntax",
   "version": "0.0.0",
-  "description": "A short description of your syntax theme",
-  "repository": "https://github.com/atom/for-latex",
+  "description": "ForLatex is bright, dark syntax highlighting theme good for both documents and code",
+  "repository": "https://github.com/cartazio/for-latex-atom-theme.git",
   "license": "MIT",
   "engines": {
-    "atom": ">0.50.0"
+    "atom": ">0.100.0"
   }
 }
